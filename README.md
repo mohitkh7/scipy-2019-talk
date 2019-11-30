@@ -3,7 +3,6 @@
 
 ## Resources
 - Website 
-	- [ROS Official Website](https://www.ros.org/)
 	- [ROS Wiki](http://wiki.ros.org/)
 	- [Robotigniteacademy](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
 - Books
